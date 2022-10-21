@@ -1,0 +1,37 @@
+1666340481432	geckodriver	INFO	Listening on 127.0.0.1:59223
+1666341412629	geckodriver	INFO	Listening on 127.0.0.1:50175
+1666341755733	geckodriver	INFO	Listening on 127.0.0.1:52330
+1666341758825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofilejSyphU"
+1666341759399	Marionette	INFO	Marionette enabled
+1666341759404	Marionette	INFO	Listening on port 52363
+WebDriver BiDi listening on ws://127.0.0.1:52331
+Read port: 52363
+1666341759637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofilejSyphU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52331/devtools/browser/f021f8f0-5dc2-4dae-a1c4-f4b844247c45
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1666013219, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1666013219, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1666341776640	Marionette	INFO	Stopped listening on port 52363
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666345533060	geckodriver	INFO	Listening on 127.0.0.1:58987
+1666345536121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofileBtw35K"
+1666345536390	Marionette	INFO	Marionette enabled
+1666345536394	Marionette	INFO	Listening on port 59017
+WebDriver BiDi listening on ws://127.0.0.1:58988
+Read port: 59017
+1666345536589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofileBtw35K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58988/devtools/browser/98b3c708-4b13-4ad4-bce1-60e9fc492b88
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1666345538894	Marionette	INFO	Stopped listening on port 59017
+1666355360471	geckodriver	INFO	Listening on 127.0.0.1:63428
+1666355363508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofilevLaLHh"
+1666355363767	Marionette	INFO	Marionette enabled
+1666355363771	Marionette	INFO	Listening on port 63453
+WebDriver BiDi listening on ws://127.0.0.1:63429
+Read port: 63453
+1666355364012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sabolka\\AppData\\Local\\Temp\\rust_mozprofilevLaLHh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63429/devtools/browser/9e5b1cc1-5adc-49a8-9eb9-29278b82d804
+JavaScript error: http://selenium1py.pythonanywhere.com/fr/, line 374: ReferenceError: oscar is not defined
+1666355369296	Marionette	INFO	Stopped listening on port 63453
